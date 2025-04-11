@@ -27,8 +27,8 @@ This is a **Java GUI-based Consultation Management System** designed for academi
 4. Use provided credentials (if any) for login testing.
 
 ## 🔐 Sample Credentials
-Student: aurora123 / aurorahi
-Lecturer: genni1227 / Genni1227
+- Student: aurora123 / aurorahi
+- Lecturer: genni1227 / Genni1227
 
 ## 📌 Notes
 - Ensure external libraries used (if any for date/time) are added to the project.
