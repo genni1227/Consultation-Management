@@ -1,0 +1,11 @@
+Jayden Foo, Kee Genni, 2024-12-10 (Tuesday), 04:00 AM - 06:00 AM, Accept
+Jayden Foo, Kee Genni, 2024-12-09 (Monday), 09:00 AM - 10:00 AM, Canceled
+Aurora Lai, Kee Genni, 2024-12-24 (Tuesday), 02:00 AM - 03:00 AM, Accept
+Jayden Foo, Kee Genni, 2024-12-24 (Tuesday), 02:00 AM - 03:00 AM, Reject
+Aurora Lai, Kee Genni, 2024-12-24 (Tuesday), 01:00 AM - 02:00 AM, Reject
+Aurora Lai, Kee Genni, 2024-12-27 (Friday), 05:00 AM - 05:30 AM, Accept
+Aurora Lai, Kee Genni, 2024-12-25 (Wednesday), 05:00 AM - 06:00 AM, Accept
+Aurora Lai, Kee Genni, 2024-12-30 (Monday), 01:00 AM - 01:00 PM, Reject
+Aurora Lai, Kee Genni, 2024-12-24 (Tuesday), 01:00 AM - 01:00 PM, Accept
+Jayden Foo, Kee Genni, 2024-12-30 (Monday), 01:00 AM - 01:00 PM, Accept
+Jayden Foo, Kee Genni, 2024-12-24 (Tuesday), 01:00 AM - 01:00 PM, Reject
